@@ -7,6 +7,9 @@ This file keeps track of all notable changes to license-manager-backend
 Unreleased
 ----------
 
+2.2.14-alpha.0 -- 2022-09-13
+----------------------------
+
 2.2.14a0 -- 2022-09-13
 ----------------------
 
