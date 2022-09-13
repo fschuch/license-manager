@@ -54,7 +54,7 @@ jobs:
 
       - id: lm-cli-package
         name: Bump version on the CLI
-        working-directory: lm-cl
+        working-directory: lm-cli
         run: |
           ../release-scripts/prepare-release.sh ${{ github.event.inputs.bump_rule }}
           echo "Poetry version is: $(poetry version --short)"
